@@ -1,0 +1,20 @@
+{
+  "name": "processo_seletivo_target",
+  "version": "1.0.0",
+  "description": "programa do processo seletivo da Target Sistemas",
+  "main": "index.js",
+  "scripts": {
+  "questao_1": "node questao1.js",
+  "questao_2": "node questao2.js",
+  "questao_3": "node questao3.js",
+  "questao_4": "node questao4.js",
+  "questao_5": "node questao5.js"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3"
+  } 
+}
