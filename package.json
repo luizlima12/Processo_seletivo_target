@@ -4,11 +4,11 @@
   "description": "programa do processo seletivo da Target Sistemas",
   "main": "index.js",
   "scripts": {
-  "questao_1": "node questao1.js",
-  "questao_2": "node questao2.js",
-  "questao_3": "node questao3.js",
-  "questao_4": "node questao4.js",
-  "questao_5": "node questao5.js"
+  "questao_1": "node src/questao1.js",
+  "questao_2": "node src/questao2.js",
+  "questao_3": "node src/questao3.js",
+  "questao_4": "node src/questao4.js",
+  "questao_5": "node src/questao5.js"
 },
   "keywords": [],
   "author": "",
